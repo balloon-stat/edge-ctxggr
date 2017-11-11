@@ -1,0 +1,14 @@
+{
+    "name": "Google Search",
+    "author": "yuk balloon",
+    "version": "0.1",
+    "description": "Search with google",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "permissions": [
+        "activeTab",
+        "contextMenus"
+    ]
+}
